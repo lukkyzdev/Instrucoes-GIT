@@ -13,20 +13,20 @@
 
 - **git branch -m "main"**
 
+> ### Como commitar?
+
+- **git commit -m "nome do commit"** - Serve para fazer o commit no gitbash.
+
+---
+
 > ### Como fazer a conexão entre o repositório local e o do github
 
 - **git remote add origin "link do repositório"**
-
----
 
 > ### Após a conexão, como empurrar os commits que estão no repositório local para o github?
 
 - **git push -u origin main**   (OBS: só precisa ser feito uma única vez após a criação do repositório local e no github)
 - **git push origin main** - Serve para mandar as modificações do repositório local pro github.
-
-> ### Como commitar?
-
-- **git commit -m "nome do commit"** - Serve para fazer o commit no gitbash.
 
 ---
 
