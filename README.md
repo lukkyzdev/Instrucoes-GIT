@@ -2,7 +2,7 @@
 
 > ### Comandos Iniciais
 
-**Quando for criar uma pasta para iniciar um projeto, para criar um repositório local use o comando abaixo, após usar todos os comandos iniciais, ai sim crie um repositório no github com o mesmo nome da pasta do seu projeto.**
+**Quando for criar uma pasta para iniciar um projeto, crie um repositório local utilizando o primeiro comando abaixo, após usar todos os comandos iniciais, ai sim crie um repositório no github com o mesmo nome da pasta do seu projeto.**
 
 - **git init** - Serve para inicializar um repositório vazio na **nossa maquina** no gitbash.    (OBS: esse comando só precisa ser feito uma única vez)
 - **git add "nome do arquivo"** - Serve para mandar um arquivo para o backstage (área de espera) para ser commitado.
