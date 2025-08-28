@@ -35,3 +35,5 @@
 - **Como criar uma nova branch** - Utilizando o comando **git checkout -b "nome da branch"**
 - **Alterando entre branchs** - git checkout "nome da branch**
 - **Como pegar a branch criada e juntar com a principal (main/master)** - Primeiramente mude para a branch principal, em seguida utilize o comando **git merge "nome da branch criada"**, em seguida **git push origin main**
+- **git clone "link do repositório do github** - Clonar um repositório do github para sua maquina local.
+- **git pull** - Caso tenham feito alguma alteração no repositório, e você quiser puxar todas as atualizações feitas, utiliza-se esse comando.
