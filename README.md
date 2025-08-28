@@ -2,6 +2,8 @@
 
 > ### Comandos Iniciais
 
+**Quando for criar uma pasta para iniciar um projeto, para criar um repositório local use o comando abaixo, após usar todos os comandos iniciais, ai sim crie um repositório no github com o mesmo nome da pasta do seu projeto.**
+
 - **git init** - Serve para inicializar um repositório vazio na **nossa maquina** no gitbash.    (OBS: esse comando só precisa ser feito uma única vez)
 - **git add "nome do arquivo"** - Serve para mandar um arquivo para área de standing para ser commitado.
 - **git add .** - Serve pra mandar todos os arquivos de uma vez para área de standing.
@@ -30,7 +32,6 @@
 
 > ### Informações adicionais
 
-- **Quando for criar uma pasta para iniciar um projeto, para criar um repositório local uso o comando já citado acima, após usar todos os comandos iniciais, ai sim crie um repositório no github com o mesmo nome da pasta do seu projeto.**
 - **Como funciona uma branch? (ramificação do nosso projeto)** - Normalmente utiliza-se as branchs para adicionar uma nova página no projeto.
 - **Como criar uma nova branch** - Utilizando o comando **git checkout -b "nome da branch"**
 - **Alterando entre branchs** - git checkout "nome da branch**
