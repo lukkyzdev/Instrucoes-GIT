@@ -1,4 +1,6 @@
-# Instruções sobre como utilizar o Git e GitHub
+# ❗ ESSE REPOSITÓRIO FOI CRIADO PARA AUXILIAR INICIANTES NO GITHUB ❗
+
+## Instruções sobre como utilizar o Git e GitHub
 
 > ### Comandos Iniciais
 
